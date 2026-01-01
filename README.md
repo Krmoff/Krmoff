@@ -63,7 +63,16 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/53ypdu1365a4ht2wz12lfyk49">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=53ypdu1365a4ht2wz12lfyk49&count=5&unique=true" alt="Spotify Recently Played" />
-  </a>
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td align="center" width="350">
+        <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=53ypdu1365a4ht2wz12lfyk49&redirect=true">
+          <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=53ypdu1365a4ht2wz12lfyk49&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=false&bar_color=53b14f&bar_color_cover=false" width="300" alt="Spotify Profile">
+        </a>
+      </td>
+      <td align="center" width="300">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=53B14F&width=250&center=true&vCenter=true&lines=Name%3A+Emre;Job%3A+Backend+Dev;Age%3A+19;Discord%3A+krmoff" alt="Typing SVG" />
+      </td>
+    </tr>
+  </table>
 </div>
